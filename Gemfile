@@ -39,7 +39,7 @@ gem 'jbuilder', '~> 2.0'
 gem "activesupport", ">= 6.0.3.1"
 gem "actionpack", ">= 6.0.3.1"
 gem "activestorage", ">= 6.0.3.1"
-gem "websocket-extensions", ">=0.15"
+gem "websocket-extensions", ">=0.1.5"
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
